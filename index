@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Antonio Spurs - História</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>San Antonio Spurs</h1>
+            <p>A Dinastia do Texas</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="historia">
+            <h2>Nossa História</h2>
+            <p>Fundado originalmente como Dallas Chaparrals na ABA em 1967, o time mudou-se para San Antonio em 1973. Desde então, os Spurs se tornaram sinônimo de consistência e vitória na NBA.</p>
+            
+            <div class="grid">
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=500" alt="Basquete">
+                    <h3>5 Títulos da NBA</h3>
+                    <p>1999, 2003, 2005, 2007 e 2014. Sob o comando de Gregg Popovich, o time alcançou o topo do mundo cinco vezes.</p>
+                </div>
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1519861531473-920036214751?q=80&w=500" alt="Cesta de Basquete">
+                    <h3>O Trio de Ferro</h3>
+                    <p>Tim Duncan, Tony Parker e Manu Ginóbili formaram o trio mais vitorioso da história dos playoffs da NBA.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="legado">
+            <h2>O Futuro: Victor Wembanyama</h2>
+            <p>Hoje, os Spurs entram em uma nova era com o fenômeno francês Victor Wembanyama, mantendo a tradição de desenvolver talentos geracionais.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Fan Page San Antonio Spurs | Go Spurs Go!</p>
+    </footer>
+</body>
+</html>
